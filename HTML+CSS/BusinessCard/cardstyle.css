@@ -10,7 +10,7 @@
     display: flex;
     justify-content: space-around;
     background-color:  #ddebf8;
-    border-bottom: 10px solid #d8cefe;
+    border-bottom: 10px solid rgb(0, 60, 0);
     width: 400px;
     height: 130px;
     margin: 40px auto;
