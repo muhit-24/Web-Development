@@ -33,3 +33,7 @@
 html {
     background: lightgray;
 }
+
+.name {
+    color: rgb(0, 60, 0);
+}
