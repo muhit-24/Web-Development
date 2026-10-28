@@ -2,6 +2,14 @@ body{
     margin: 10px;
 }
 
+/* .red {
+    background: red;
+    height: 150px;
+    width: 150px;
+    border-radius: 100%;
+    margin: 100px 0px 0px 100px;
+} */
+
 .red{
     background: red;
     height: 100px;
