@@ -17,6 +17,7 @@ body{
     justify-content: space-around;
 
     border: 0px solid #e3e8eb;
+    border-bottom: 2px solid red;
     border-radius: 3px;
 
     margin: 10px;
