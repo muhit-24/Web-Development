@@ -29,3 +29,7 @@
     font-style: italic;
     filter: blur(1px)
 }
+
+html {
+    background: lightgray;
+}
