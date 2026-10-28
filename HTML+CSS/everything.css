@@ -37,4 +37,7 @@ body{
     padding-bottom: 8px;
     padding-left: 15px;
     padding-right: 15px;
+
+    filter: drop-shadow(0 20px 20px #758fa5);
+    filter: blur(2px);
 }
